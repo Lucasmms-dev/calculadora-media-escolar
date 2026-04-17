@@ -18,7 +18,7 @@ Durante o desenvolvimento, foquei-me em três pilares principais:
 
 ## 🚀 Como Visualizar
 Podes aceder ao projeto diretamente através do link do GitHub Pages:
-[INSERE_AQUI_O_TEU_LINK_APÓS_ATIVAR]
+https://lucasmms-dev.github.io/calculadora-media-escolar/
 
 ---
 Desenvolvido por **Lucas Mendonça**
